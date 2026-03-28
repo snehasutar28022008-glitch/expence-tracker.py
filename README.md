@@ -1,5 +1,7 @@
 #this is a simple expense tracker project made using python.
+
 #features
+
 -add expenses
 
 -calculate total
